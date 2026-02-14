@@ -1,40 +1,76 @@
 ## Personal Expense Tracker System
 
-This is a simple Python project that helps users track their daily expenses.
-You can add, edit, delete, and view your expenses. The data is saved in a CSV or JSON file.
+* A simple Python application to track daily expenses
+* Users can:
+  * Add expenses
+  * Edit expenses
+  * Delete expenses
+  * View saved expenses
+* Data is stored in:
+  * CSV file
+  * OR JSON file
 
 ## Project Goal
 
-The goal of this project is to practice building a real-world application using Python.
-It can be made as:
--A Command Line (CLI) application
--OR a GUI application using Tkinter
+* Practice building a real-world Python application
+* Apply concepts like:
+  * File handling
+  * Functions
+  * Object-Oriented Programming
+* Can be developed as:
+  * Command Line Interface (CLI) application
+  * OR GUI application using Tkinter
 
 ## Features
 
--Add new expenses
--Edit existing expenses
--Delete expenses
--Manage categories (Food, Bills, Travel, etc.)
--View monthly summary
--Save data in CSV or JSON format
+* Add new expense
+  * Input: Date, Category, Amount, Description
+
+* Edit existing expense
+  * Select expense by ID or index
+  * Update details
+
+* Delete expense
+  * Select expense by ID or index
+  * Remove from file
+
+* Category management
+  * Predefined categories (Food, Bills, Travel, etc.)
+  * Option to add new category
+
+* Monthly summary
+  * Calculate total spending for selected month
+  * Show category-wise spending
+
+* Data storage
+  * Save expenses to CSV file
+  * OR Save expenses to JSON file
+  * Load data when program starts
 
 ## Technologies Used
 
--Python 3
--Tkinter (for GUI version)
--CSV / JSON (for data storage)
+* Python 3
+* Tkinter (for GUI version)
+* CSV module
+* JSON module
 
 ## How It Works
 
--Run the program
--Choose an option from the menu
--Enter expense details (date, category, amount, description)
--View or manage your expenses
+* Run the program
+* Display main menu:
+  * Add Expense
+  * Edit Expense
+  * Delete Expense
+  * View Expenses
+  * Monthly Summary
+  * Exit
+* Perform selected operation
+* Save changes automatically to file
 
 ## What I Learned
 
--File handling in Python
--Working with CSV and JSON
--Basic Object-Oriented Programming
--Building a simple CLI/GUI app
+* Reading and writing CSV files
+* Reading and writing JSON files
+* Creating structured programs
+* Using classes and objects
+* Building a functional CLI/GUI application
