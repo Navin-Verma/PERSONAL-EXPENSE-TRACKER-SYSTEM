@@ -47,6 +47,16 @@
   * OR Save expenses to JSON file
   * Load data when program starts
 
+## Glimpses
+•Window Layout
+
+<img width="746" height="525" alt="image" src="https://github.com/user-attachments/assets/c11da473-6cb8-4610-8876-53df7845f5d7" />
+
+
+•Using "MONTHLY SUMMARY"
+
+<img width="746" height="523" alt="image" src="https://github.com/user-attachments/assets/0c8400db-8dbf-4633-8898-e88809414f0b" />
+
 ## Technologies Used
 
 * Python 3
@@ -74,3 +84,10 @@
 * Creating structured programs
 * Using classes and objects
 * Building a functional CLI/GUI application
+
+## Declaration
+This project was built as part of the Cryptonic Area Virtual Python Internship Program. It showcases the practical application of Python concepts and hands-on experience gained during the internship.
+
+---
+
+Author: NAVIN VERMA
