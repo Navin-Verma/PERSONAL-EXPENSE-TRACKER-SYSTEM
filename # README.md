@@ -90,4 +90,7 @@ This project was built as part of the Cryptonic Area Virtual Python Internship P
 
 ---
 
-Author: NAVIN VERMA
+## Author
+
+**Navin Verma :**
+Python | Personal Expense Tracker System
