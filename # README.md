@@ -1,3 +1,9 @@
+# Expense Tracker (Python)
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+
 ## Personal Expense Tracker System
 
 * A simple Python application to track daily expenses
