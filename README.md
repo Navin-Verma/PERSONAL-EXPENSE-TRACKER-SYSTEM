@@ -1,5 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Project Type](https://img.shields.io/badge/Project-Console%20Application-green)
+![GUI](https://img.shields.io/badge/Interface-Tkinter-orange)
+![Data Storage](https://img.shields.io/badge/Data-JSON-yellow)
+![Project Type](https://img.shields.io/badge/Project-GUI%20Application-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 
