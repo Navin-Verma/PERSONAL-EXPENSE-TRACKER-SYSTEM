@@ -1,6 +1,5 @@
-# Expense Tracker (Python)
-
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Project Type](https://img.shields.io/badge/Project-Console%20Application-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 
